@@ -23,6 +23,17 @@ http://crt-ai.cs.ucc.ie/
 - Enda O'Shea (UL) - Enda.OShea@ul.ie
 - Priya Rani (NUIG) - priya.rani@insight-centre.org
 
+# TASKS
+
+- **TASK A: Offensive Language Identification**
+  - **OFF**ensive (OFF)
+  - **NOT** offensive (NOT)
+
+- **TASK B: Categorization of offense type**
+  - **T**argeted **IN**sult (TIN)
+  - **UNT**argeted (UNT)
+
+
 # Models
 
 **ML approaches**
@@ -56,7 +67,7 @@ http://crt-ai.cs.ucc.ie/
 
 # Results - TASK B
 
-|  |  | **OFF** |  |  | **NOT** |  |  |  |
+|  |  | **UNT** |  |  | **TIN** |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Model** | **Precision** | **Recall** | **F1** | **Precision** | **Recall** | **F1** | **F1 Macro** | **Accuracy** |
 | LR/TF\_IDF | 0.0 | 0.0 | 0.0 | 0.8875 | **1.0** | 0.9404 | 0.4792 | 0.8875 |
