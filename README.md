@@ -12,5 +12,5 @@ https://sites.google.com/site/offensevalsharedtask/offenseval2019
 paper: https://www.aclweb.org/anthology/S19-2010/
 
 
-###**NLP week - NUIG**
+# **NLP week - NUIG**
 Duy Nguyen (DCU), Andrew Neary (NUIG), Alberto Castagna (TCD), Andrea Rossi (UCC), Enda O'Shea (UL), Priya Rani (NUIG)
