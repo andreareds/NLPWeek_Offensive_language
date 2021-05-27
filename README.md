@@ -13,4 +13,27 @@ paper: https://www.aclweb.org/anthology/S19-2010/
 
 
 # **NLP week - NUIG**
-Duy Nguyen (DCU), Andrew Neary (NUIG), Alberto Castagna (TCD), Andrea Rossi (UCC), Enda O'Shea (UL), Priya Rani (NUIG)
+**Group 1 - Cohort 1**
+- Duy Nguyen (DCU)
+- Andrew Neary (NUIG)
+- Alberto Castagna (TCD)
+- Andrea Rossi (UCC)
+- Enda O'Shea (UL)
+- Priya Rani (NUIG)
+
+# Models
+
+**ML approaches**
+- Logistic Regression
+- Random Forest
+- XGB
+
+**DL approaches**
+- LSTM+CNN
+- BERT
+
+# Evaluation Metrics
+- Accuracy
+- F1
+- Precision
+- Recall
