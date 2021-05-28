@@ -1,5 +1,4 @@
-# NLP Week -  Offensive language in Social Media
-Offensive language in social media
+# NLP Week -  Offensive Language in Social Media
 
 This project is based on SemEval-2019 Task 6: Identifying and Categorizing
 Offensive Language in Social Media. The project focuses on subtasks A and B. In
